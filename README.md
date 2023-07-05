@@ -1,3 +1,1 @@
-# stackblitz-starters-bmzpqf
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-bmzpqf)
+A simple Angular project to demomstrate the working of observable and observer.
